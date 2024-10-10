@@ -33,25 +33,4 @@ The dataset includes retail transactions with the following attributes:
 - **Outlier Detection**: Using boxplots to detect sales anomalies.
 - **Visualizations**: Utilizing Seaborn and Matplotlib to create insightful charts like histograms, scatter plots, and time series plots.
 
-## Installation:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_username/retail-sales-data-analysis.git
-Install the required dependencies:
-bash
-Copier le code
-pip install -r requirements.txt
-Usage:
-Load the dataset into the project directory.
-Open the notebook and run each cell to see the analysis.
-Modify the dataset or visualizations for further exploration.
-Results:
-Detailed analysis of monthly sales trends.
-Insights into the best-selling products.
-Identification of top countries based on sales.
-Anomalies detected through boxplots to refine data understanding.
-Technologies Used:
-Python: For data analysis and visualizations.
-Pandas: For data manipulation.
-Matplotlib & Seaborn: For creating visualizations.
-Jupyter Notebook: For interactive code execution.
+
