@@ -48,10 +48,3 @@ The dataset used for this project is included as `data.csv`. It contains [brief 
 - Correlation heatmaps to understand feature relationships
 - Scatter plots to show trends and outliers
 
-## Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests. For significant changes, please open an issue to discuss your ideas first.
-
-## License
-
-This project is licensed under the MIT License.
